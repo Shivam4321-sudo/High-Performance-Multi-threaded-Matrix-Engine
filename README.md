@@ -1,5 +1,3 @@
-# High Performance Multithreaded Matrix Engine (C++)
-
 # 🚀 High-Performance Multithreading Matrix Engine
 
 ## 📌 Overview
